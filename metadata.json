@@ -1,0 +1,7 @@
+{
+  "name": "Monitoreo Mundial 146520 Mhz Frecuencia Internacional de Encuentro",
+  "description": "Territorial monitoring and SDR activity detection dashboard for RACAM Cloud.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
